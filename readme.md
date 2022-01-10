@@ -21,4 +21,6 @@
 
 **That's all! This is all it takes to use GitHub to save progress on your projects!**
 
+Jorge Perez
 Christylle Ibanez
+Carlos De Leon
